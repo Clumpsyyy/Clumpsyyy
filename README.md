@@ -8,7 +8,7 @@
 * 📫 How to reach me: Contact me using my Gmail account: mahebres03@gmail.com
 * ❤️ I love playing basketball
 
-* 
+
 <p align="center">
   <img src="[https://capsule-render.vercel.app/api?](https://nurseslabs.com/37-epicly-hilarious-nursing-gifs-ever/) text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
