@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning Python, JavaScript, And Node.js
 * 🤝 I’m looking to collaborate on projects and startups
 * 💬 Ask me about coding 
-* 📫 How to reach me: Contact me using my Gmail account: mahebres03@gmail.com
+* 📫 How to reach me: Contact me using my Gmail account: mahebres03@gbox.ncf.edu.ph
 * ❤️ I love playing basketball
 
 
