@@ -1,8 +1,4 @@
-<h1 align="center">Hey, <User.UserName>👾?</h1>
-
-###
-
-<p align="left">I AM DEVELOPER WHO WANT TO LEARN NEW TECH!</p>
+<h1 align="center">💻 Student + Developer | Always learning new technologies</h1>
 
 ###
 
