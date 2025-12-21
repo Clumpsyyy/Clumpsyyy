@@ -1,12 +1,13 @@
 <h1 align="center">💻 Student + Developer | Always learning new technologies</h1>
 
 ###
+<p align="left">--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
-<p align="left">Tech Stack</p>
+<p align="left"><strong>|| TECH STACK ||</strong></p>
 
 ###
 
-<p align="left">Languages</p>
+<p align="left">|| Languages ||</p>
 
 ###
 
@@ -26,7 +27,7 @@
 
 ###
 
-<p align="left">Frontend</p>
+<p align="left">|| Frontend || </p>
 
 ###
 
@@ -42,7 +43,7 @@
 
 ###
 
-<p align="left">Backend</p>
+<p align="left">|| Backend || </p>
 
 ###
 
@@ -58,7 +59,7 @@
 
 ###
 
-<p align="left">Machine Learning</p>
+<p align="left">|| Machine Learning ||</p>
 
 ###
 
@@ -74,7 +75,7 @@
 
 ###
 
-<p align="left">Game Development Engine</p>
+<p align="left">|| Game Development Engine ||</p>
 
 ###
 
@@ -86,7 +87,7 @@
 
 ###
 
-<p align="left">Database</p>
+<p align="left">|| Database ||</p>
 
 ###
 
@@ -95,12 +96,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" alt="composer logo"  />
 </div>
 
 ###
 
-<p align="left">DevOps</p>
+<p align="left">|| DevOps ||</p>
 
 ###
 
@@ -113,7 +113,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/mark-anthony-hebres-73240826b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
@@ -122,22 +124,22 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Clumpsyyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Clumpsyyy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</div> -->
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clumpsyyy/Clumpsyyy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clumpsyyy/Clumpsyyy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Clumpsyyy/Clumpsyyy/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
-<div align="center" style="width: 100%">
+<!-- <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
   </a>
@@ -147,7 +149,7 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
-</div>
+</div> -->
 
 ###
 
