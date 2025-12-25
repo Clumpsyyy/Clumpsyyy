@@ -1,4 +1,4 @@
-<h1 align="center">💻 Student + Developer | Hellow World</h1>
+<h1 align="center">💻 Student + Developer | Hello World</h1>
 
 ###
 <p align="left">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
